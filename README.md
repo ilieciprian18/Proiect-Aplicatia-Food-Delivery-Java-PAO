@@ -3,7 +3,7 @@ Proiect Aplicatia Food Delivery Java-PAO
 
 Aplicatia contine un meniu ce poate accesta toate operatiile acesteia ( cu input de la tastatura).
 De asemenea aplicatia deja contine un set de date, la care se pot adauga date noi.
-8 obiecte modele, 9 clase
+#8 obiecte modele, 9 clase
  * Person
  * DateOfBirth
  * User
