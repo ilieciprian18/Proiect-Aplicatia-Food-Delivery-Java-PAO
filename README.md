@@ -17,6 +17,7 @@ Proiect Aplicatia Food Delivery Java-PAO
  * Masina
  * Produs
  * Ingrediente
+ 
  Clase service:
  * MasinaService
  * RestaurantService
@@ -25,6 +26,7 @@ Proiect Aplicatia Food Delivery Java-PAO
  * ComandaService
  * DateofBirthService
  * ProdusService (nefolosita)
+ 
  Comenzi:
  * Cautare restaurant
  * Cautare restaurant in oras
