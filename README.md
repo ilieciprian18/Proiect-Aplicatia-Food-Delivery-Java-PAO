@@ -39,3 +39,4 @@ Proiect Aplicatia Food Delivery Java-PAO
  * Afisam numar restaurante in oras
  * Aflati utilizatorii a caror zi este astazi
  * Add stuff / remove stuff
+ * Diferite Afisuri
