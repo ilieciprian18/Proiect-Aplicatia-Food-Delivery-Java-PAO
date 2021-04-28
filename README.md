@@ -43,3 +43,5 @@ Proiect Aplicatia Food Delivery Java-PAO
 
 
 # Etapa II
+**Am implementat servicii generice Singleton pentru citirea datelor de intrare din fisiere CSV pentru clasele:DateOfBirth,User,Livrator,Masina ( 4 clase )
+**Am realizat un Serviciu de Audit ce scrie intr-un fisier CSV extern
