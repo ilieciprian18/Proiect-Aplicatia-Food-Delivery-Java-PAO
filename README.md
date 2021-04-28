@@ -40,3 +40,6 @@ Proiect Aplicatia Food Delivery Java-PAO
  * Aflati utilizatorii a caror zi este astazi
  * Add stuff / remove stuff
  * Diferite Afisuri
+
+
+#Etapa II
