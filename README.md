@@ -48,4 +48,4 @@ _De asemenea tot codul contine comentarii sugestive_
 **Am creeat o baza de date pentru aplicatie in care se incarca datele folosing MySQL**\
 **Se creeaza baza de date, exemplele de JBDC se afla in fisierul SQLConnect.java**\
 **Exista in aplicatie comenzi crude insert,update,delete,read pe tabele**\
-**Am implementat urmatoarele clase in baza de date:
+**Am implementat urmatoarele clase in baza de date:birthday, user, masina,livrator + un audit log
